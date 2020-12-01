@@ -1,0 +1,10 @@
+{
+  "button-tooltip": {
+    "title": "フォームを書き出し"
+  },
+  "export": {
+    "xml": "XML ファイル",
+    "fdf": "FDF ファイル",
+    "xfdf": "XFDF ファイル"
+  }
+}

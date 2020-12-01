@@ -1,0 +1,24 @@
+{
+  "buttons": {
+    "title": "墨消し",
+    "redact_text": "テキストを墨消しとしてマーク",
+    "redact_area": "領域を墨消しとしてマーク",
+    "redact_page": "ページを墨消しとしてマーク",
+    "redact_search": "テキストを検索",
+    "apply": "適用",
+    "ok": "OK",
+    "cancel": "キャンセル"
+  },
+  "tooltips": {
+    "redaction": "コンテンツを墨消しとしてマーク",
+    "apply": "マークしたすべてのコンテンツに墨消しを適用"
+  },
+  "dialog": {
+    "apply_alert": "墨消しとしてマークされたコンテンツを削除しようとしています。この操作は元に戻すことができません。",
+    "redaction_page": {
+      "mark_current_page": "現在のページを墨消しとしてマーク",
+      "mark_specific_page": "指定したページ範囲を墨消しとしてマーク",
+      "page_range": "ページ範囲"
+    }
+  }
+}
